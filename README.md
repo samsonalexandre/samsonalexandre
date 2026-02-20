@@ -30,7 +30,7 @@ Currently rebuilding and expanding my Android expertise with modern technologies
 
 ## Featured Projects
 
-### 🌦 Wiindi — Weather App (Main Project)
+### Wiindi — Weather App (Main Project)
 Modern weather application demonstrating API integration and real-world Android architecture.
 
 https://github.com/samsonalexandre/Wiindi
