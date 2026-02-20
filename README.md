@@ -3,7 +3,7 @@
 
 ---
 
-## 📱 Über mich
+## Über mich
 Android-Entwickler mit Schwerpunkt auf modernen **Kotlin-basierten Anwendungen**. Aktuell vertiefe ich meine Kenntnisse in **Jetpack Compose**, **Clean Architecture** und **reaktiver Programmierung**, um hochwertige, wartbare Apps zu entwickeln.
 
 ---
