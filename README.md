@@ -26,7 +26,7 @@ Moderne Wetteranwendung mit **API-Integration** und praxisnaher Android-Architek
 ### [Check-It-Off – Produktivitäts-App](https://github.com/samsonalexandre/Check-It-Off)
 Lokale Datenbankanwendung mit **Room** und **MVVM**.
 
-### [🎲 RulletGame – Jetpack Compose Demo](https://github.com/samsonalexandre/Rullet-Game)
+### [RulletGame – Jetpack Compose Demo](https://github.com/samsonalexandre/Rullet-Game)
 UI-Projekt mit Fokus auf **Animationen** und **State-Management**.
 
 ---
