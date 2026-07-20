@@ -24,7 +24,7 @@ Durch meine zusätzlichen Erfahrungen in der Android-Entwicklung (Kotlin) verste
 
 ## Ausgewählte Java-Projekte
 
-### [FIAE Lern-Trainer – Samson Elektronik]([Link-zu-deinem-Repo-hier-einfügen](https://github.com/samsonalexandre/IHK-Flashcard-Backend))
+### [FIAE Lern-Trainer – Samson Elektronik](https://github.com/samsonalexandre/IHK-Flashcard-Backend)
 *Ein interaktiver, webbasierter Karteikarten-Trainer zur gezielten IHK-Prüfungsvorbereitung.*
 * **Tech-Stack:** Java, Spring Boot, H2-Datenbank, HTML5/CSS3, Vanilla JavaScript.
 * **Highlights:** Automatische Daten-Initialisierung via JSON-Parsing (Jackson), persistentes lokales Speichersystem im Browser (LocalStorage), intelligente Bildpfad-Zuordnung und REST-API-Integration.
