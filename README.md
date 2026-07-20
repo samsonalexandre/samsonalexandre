@@ -30,8 +30,8 @@ Durch meine zusätzlichen Erfahrungen in der Android-Entwicklung (Kotlin) verste
 * **Highlights:** Automatische Daten-Initialisierung via JSON-Parsing (Jackson), persistentes lokales Speichersystem im Browser (LocalStorage), intelligente Bildpfad-Zuordnung und REST-API-Integration.
 
 ### [E-Commerce Shop System (CLI)](https://github.com/samsonalexandre/Shop)
-*Eine fundierte Java-Konsolenanwendung, die die Kernkonzepte eines Online-Shops abbildet.*
-* **Tech-Stack:** Java (Core).
+*Eine fundierte Kotlin-Konsolenanwendung, die die Kernkonzepte eines Online-Shops abbildet.*
+* **Tech-Stack:** Kotlin.
 * **Highlights:** Starke Fokussierung auf **Objektorientierte Programmierung (OOP)**. Beinhaltet Vererbung (abstrakte Accounts, User/Admin-Rechte), modulares Warenkorb-System, Interface-basierte Zahlungsmethoden (Enum-Logik) und sauberes Exception-Handling (z.B. `InvalidInputException`, `UserNotFoundException`).
 
 ### [Java Swing Adventskalender](https://github.com/samsonalexandre/Adventskalender)
