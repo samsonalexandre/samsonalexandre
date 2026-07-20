@@ -12,9 +12,9 @@ Durch meine zusätzlichen Erfahrungen in der Android-Entwicklung (Kotlin) verste
 
 ## Tech Stack
 
-| **Kategorie**        | **Technologien**                                                                                               |
+| **Kategorie**        | **Technologien**                                                                                              |
 |----------------------|---------------------------------------------------------------------------------------------------------------|
-| **Sprachen**         | Java (Hauptsprache), Kotlin, JavaScript, HTML5/CSS3                                                           |
+| **Sprachen**         | Java (Hauptsprache), Kotlin, HTML5/CSS3                                                                       |
 | **Backend & Web**    | Spring Boot 3.x, REST-APIs, Spring Data JPA, Jakarta Persistence                                              |
 | **Datenbanken**      | SQL, H2 In-Memory, Room (Android)                                                                             |
 | **Architektur & OOP**| Schichtenarchitektur, MVC, Fehlerbehandlung (Exceptions), Clean Architecture Grundlagen                       |
