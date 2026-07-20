@@ -34,8 +34,10 @@ Durch meine zusätzlichen Erfahrungen in der Android-Entwicklung (Kotlin) verste
 * **Tech-Stack:** Java (Core).
 * **Highlights:** Starke Fokussierung auf **Objektorientierte Programmierung (OOP)**. Beinhaltet Vererbung (abstrakte Accounts, User/Admin-Rechte), modulares Warenkorb-System, Interface-basierte Zahlungsmethoden (Enum-Logik) und sauberes Exception-Handling (z.B. `InvalidInputException`, `UserNotFoundException`).
 
-### [Adventskalender](https://github.com/samsonalexandre/Adventskalender)
-*Java-basiertes Projekt (weitere Details folgen).*
+### [Java Swing Adventskalender](https://github.com/samsonalexandre/Adventskalender)
+*Ein interaktiver, grafischer Adventskalender als Desktop-Anwendung.*
+* **Tech-Stack:** Java (Core), Java Swing, AWT.
+* **Highlights:** Saubere Umsetzung der **MVC-Architektur** (Model-View-Controller), persistente Speicherung des Fortschritts via File-I/O (`progress.txt`), speicherschonendes **Lazy Loading** von Bildressourcen sowie Custom-GUI-Komponenten und Thread-Sicherheit.
 
 ---
 
