@@ -1,44 +1,51 @@
 # Alexander Samson
-**Android Entwickler** | Kotlin | Jetpack Compose | Clean Architecture
+**Java Junior Developer** | Spring Boot | Backend-Architektur | OOP
 
 ---
 
 ## Über mich
-Android-Entwickler mit Schwerpunkt auf modernen **Kotlin-basierten Anwendungen**. Aktuell vertiefe ich meine Kenntnisse in **Jetpack Compose**, **Clean Architecture** und **reaktiver Programmierung**, um hochwertige, wartbare Apps zu entwickeln.
+Als angehender **Fachinformatiker für Anwendungsentwicklung** (Umschulung seit 07/2025) liegt mein Fokus auf der Entwicklung robuster und gut strukturierter **Java-Anwendungen**. Ich baue leidenschaftlich gerne saubere Backend-Architekturen, arbeite mit **Spring Boot** und lege großen Wert auf sauberes **objektorientiertes Design** (OOP). 
+
+Durch meine zusätzlichen Erfahrungen in der Android-Entwicklung (Kotlin) verstehe ich nicht nur die Serverseite, sondern weiß auch genau, wie APIs aufgebaut sein müssen, um von Client-Anwendungen effizient konsumiert zu werden.
 
 ---
 
 ## Tech Stack
 
-| **Kategorie**       | **Technologien**                                                                 |
-|----------------------|---------------------------------------------------------------------------------|
-| **Programmiersprachen** | Kotlin (Hauptsprache), Java (Grundkenntnisse), Swift (frühere iOS-Erfahrung) |
-| **Android**          | Jetpack Compose, Android SDK, ViewModel/Lifecycle, Room, REST-APIs, Coroutines/Flow |
-| **Architektur**      | MVVM, Clean Architecture (Lernphase), Modularisierung                          |
+| **Kategorie**        | **Technologien**                                                                                               |
+|----------------------|---------------------------------------------------------------------------------------------------------------|
+| **Sprachen**         | Java (Hauptsprache), Kotlin, JavaScript, HTML5/CSS3                                                           |
+| **Backend & Web**    | Spring Boot 3.x, REST-APIs, Spring Data JPA, Jakarta Persistence                                              |
+| **Datenbanken**      | SQL, H2 In-Memory, Room (Android)                                                                             |
+| **Architektur & OOP**| Schichtenarchitektur, MVC, Fehlerbehandlung (Exceptions), Clean Architecture Grundlagen                       |
+| **Mobile (Bonus)**   | Android SDK, Jetpack Compose, MVVM                                                                            |
 
 ---
 
-## Ausgewählte Projekte
+## Ausgewählte Java-Projekte
 
-### [Wiindi – Wetter-App](https://github.com/samsonalexandre/Wiindi)
-Moderne Wetteranwendung mit **API-Integration** und praxisnaher Android-Architektur.
+### [FIAE Lern-Trainer – Samson Elektronik](Link-zu-deinem-Repo-hier-einfügen)
+*Ein interaktiver, webbasierter Karteikarten-Trainer zur gezielten IHK-Prüfungsvorbereitung.*
+* **Tech-Stack:** Java, Spring Boot, H2-Datenbank, HTML5/CSS3, Vanilla JavaScript.
+* **Highlights:** Automatische Daten-Initialisierung via JSON-Parsing (Jackson), persistentes lokales Speichersystem im Browser (LocalStorage), intelligente Bildpfad-Zuordnung und REST-API-Integration.
 
-### [Check-It-Off – Produktivitäts-App](https://github.com/samsonalexandre/Check-It-Off)
-Lokale Datenbankanwendung mit **Room** und **MVVM**.
+### [E-Commerce Shop System (CLI)](https://github.com/samsonalexandre/Shop)
+*Eine fundierte Java-Konsolenanwendung, die die Kernkonzepte eines Online-Shops abbildet.*
+* **Tech-Stack:** Java (Core).
+* **Highlights:** Starke Fokussierung auf **Objektorientierte Programmierung (OOP)**. Beinhaltet Vererbung (abstrakte Accounts, User/Admin-Rechte), modulares Warenkorb-System, Interface-basierte Zahlungsmethoden (Enum-Logik) und sauberes Exception-Handling (z.B. `InvalidInputException`, `UserNotFoundException`).
 
-### [RulletGame – Jetpack Compose Demo](https://github.com/samsonalexandre/Rullet-Game)
-UI-Projekt mit Fokus auf **Animationen** und **State-Management**.
+### [Adventskalender](https://github.com/samsonalexandre/Adventskalender)
+*Java-basiertes Projekt (weitere Details folgen).*
 
 ---
 
-## Aktueller Fokus (2026)
-- Vertiefung in **Jetpack Compose** (komplexe UIs)
-- **Produktionsreife App-Architektur**
-- Ausbau meines Portfolios mit praxisnahen Projekten
+## Aktueller Fokus 
+- Vertiefung in **Spring Boot** und Enterprise-Java-Konzepte.
+- Ausbau von relationalen Datenbankkenntnissen (SQL) und JPA.
+- Vorbereitung auf die IHK-Abschlussprüfung (FIAE).
 
 ---
 
 ## Kontakt
 - **E-Mail**: [alexander_samson@icloud.com](mailto:alexander_samson@icloud.com)
 - **Standort**: Deutschland
-
